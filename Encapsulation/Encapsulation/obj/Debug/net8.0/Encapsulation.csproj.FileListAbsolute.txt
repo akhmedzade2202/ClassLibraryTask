@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
