@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\bin\Debug\net8.0\StringBuilderTask.exe
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\bin\Debug\net8.0\StringBuilderTask.deps.json
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\bin\Debug\net8.0\StringBuilderTask.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\bin\Debug\net8.0\StringBuilderTask.dll
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\bin\Debug\net8.0\StringBuilderTask.pdb
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.sourcelink.json
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.dll
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\refint\StringBuilderTask.dll
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.pdb
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\StringBuilderTask.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\StringBuilderTask\StringBuilderTask\obj\Debug\net8.0\ref\StringBuilderTask.dll
